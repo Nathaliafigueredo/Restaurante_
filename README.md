@@ -15,6 +15,7 @@ Sair:
 Encerra o programa.
 
 ***Como Utilizar
+
 Execução do Programa
 Execute o arquivo principal para iniciar o programa.
 O programa exibirá o nome estilizado e as opções disponíveis.
@@ -25,6 +26,7 @@ Siga as instruções exibidas na tela para cada funcionalidade.
 
 
 ***Funções
+
 exibir_nome_do_programa()
 Exibe o nome estilizado do programa na tela.
 
